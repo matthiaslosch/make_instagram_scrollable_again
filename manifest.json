@@ -6,6 +6,8 @@
     "description": "Hides the login popup that prevents you from scrolling after a while",
 
     "icons": {
+        "48": "icon@48px.png",
+        "96": "icon@96px.png"
     },
 
     "browser_specific_settings": {
