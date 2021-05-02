@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Make Instagram scrollable again",
-    "version": "0.1.0",
+    "name": "Make Instagram Scrollable Again",
+    "version": "0.2.0",
 
-    "description": "Hides the login popup that prevents you from scrolling after a while",
+    "description": "Hides the login popup that prevents you from scrolling after a while.",
 
     "icons": {
         "48": "icon@48px.png",
@@ -12,7 +12,7 @@
 
     "browser_specific_settings": {
         "gecko": {
-            "id": "losch@hey.com"
+            "id": "makeinstagramscrollableagain@matthiaslosch.de"
         }
     },
 
